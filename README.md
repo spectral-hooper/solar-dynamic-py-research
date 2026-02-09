@@ -1,4 +1,4 @@
-# SolarDynamics-Ozat-Research
+# solar-dynamic-py-research
 
 **An Integrated Pipeline for Solar Magnetic Field Analysis and CME Energy Estimation**
 
