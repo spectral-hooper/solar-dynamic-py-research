@@ -30,6 +30,4 @@ The goal of this project is to predict Coronal Mass Ejections (CMEs) and solar f
 - `examples/`: Visualizations of reconstructed magnetic loops.
 
 ---
-**Developed by:** Kalimzhanov Emir & Kairulla Ualikhan  
-**Institution:** "Ozat" Specialized IT School-Lyceum  
-**Scientific Consultant:** Dr. Alexander S. Kutsenko (Crimean Astrophysical Observatory)
+**Developed by:** spectral-hooper
